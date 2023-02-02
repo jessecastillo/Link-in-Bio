@@ -2,7 +2,6 @@ body,html{
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
-    background:gray;
     color: #fff;
 }
 
@@ -98,4 +97,12 @@ a {
     color: black;
     text-decoration: none;
      
+}
+
+li.refine {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
